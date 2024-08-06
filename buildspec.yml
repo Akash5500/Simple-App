@@ -30,4 +30,4 @@ phases:
 artifacts:
   files:
     - '**/*'
-  base-directory: Simple-App
+  base-directory: Simple-Python-APP/BuildArtif/
