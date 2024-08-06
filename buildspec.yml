@@ -27,4 +27,4 @@ phases:
 artifacts:
   files:
     - '**/*'
-  base-directory: ../Simple-App
+  base-directory: .
